@@ -35,5 +35,6 @@
 	<classpathentry kind="lib" path="C:/Users/SupperQA/Downloads/selenium-java-3.4.0/lib/xercesImpl-2.11.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/SupperQA/Downloads/selenium-java-3.4.0/lib/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="lib" path="selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
