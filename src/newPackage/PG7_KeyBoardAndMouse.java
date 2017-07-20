@@ -9,7 +9,7 @@ public class PG7_KeyBoardAndMouse {
     
     public static void main(String[] args) {
         String baseUrl = "http://newtours.demoaut.com/";
-        System.setProperty("webdriver.gecko.driver", "C:\\seleniumFireFoxDriver\\geckodriver.exe");
+        System.setProperty("webdriver.gecko.driver", "/home/quoccao/eclipse-workspace/geckodriver");
         WebDriver driver = new FirefoxDriver();
 
         driver.get(baseUrl);           
